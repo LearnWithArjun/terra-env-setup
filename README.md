@@ -1,4 +1,4 @@
-### Let's get Terra set up on your computer!
+# Let's get Terra set up on your computer!
 The first thing we'll do is set up our environment so we can start building. We'll install all the system dependencies and then the special Terra stuff.
 
 #### 🪟 WINDOWS USERS!
